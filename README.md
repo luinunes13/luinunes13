@@ -15,9 +15,9 @@ I am **Luisa Nunes**,
 <br>
 📚 I am doing Higher Diploma in Science in computing at National College of Ireland (NCI)
 <br>
-🎯🇧🇷 Apparel designer from Brazilian fashion brand.
+🎯🇧🇷 Apparel Designer from Brazilian fashion brand.
 <br>
-🎯🇮🇪 Healthcare Assistant and IT student 
+🎯🇮🇪 Healthcare Assistant and Computer Science Student
 <br><br>  
 
  ##
