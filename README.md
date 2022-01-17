@@ -1,4 +1,6 @@
-### Hi, I am Luisa Nunes 👋
+### Heey 👋
+
+I am **Luisa Nunes**,
 
 <div align="left">
   <a href="https://github.com/luinunes13">
