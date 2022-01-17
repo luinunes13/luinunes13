@@ -1,6 +1,6 @@
 ### Heey 👋
 
-<h1> I am **Luisa Nunes**,</h1>
+I am **Luisa Nunes**,
 <br><br>
 
 🧵 Apparel Sport and Casual Fashion Designer (UTFPR)
@@ -9,7 +9,7 @@
 
 ##
 
-<h2>**Currently,**,/h2>
+**Currently,**
 <br><br>
 👩🏽‍💻 Transition into the tech industry.
 <br>
@@ -22,7 +22,7 @@
 
  ##
  
- <h2>**To know more, track me on:**</h2>
+ **To know more, track me on:**
 
 <div>
    <a href="https://www.linkedin.com/in/luinunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -33,7 +33,17 @@
 
  ##
  
- <h2>🌱  I'm currently learning...</h2>
+ **I’m currently working with ...**
+ <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp;&nbsp; <img src="https://aleen42.github.io/badges/src/photoshop.svg" />&nbsp;&nbsp; <img src="https://aleen42.github.io/badges/src/illustrator.svg" />&nbsp;&nbsp;
+ 
+  ##
+ 
+ **I am currently learning...**
+ <br><br>
+ 
+ <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp; 
+ 
+ ##
  
 <div align="left">
   <a href="https://github.com/luinunes13">
