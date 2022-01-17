@@ -65,7 +65,7 @@ I am **Luisa Nunes**,
   
  ##
  
-![Snake animation](https://github.com/luinunes13/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/luinunes13/luinunes13/blob/output/github-contribution-grid-snake.svg)  
     
 
 
