@@ -2,6 +2,9 @@
 
 I am **Luisa Nunes**,
 
+Currently, I live in Dublin (Ireland) and work as Health Care Assistant and Fashion Design. I am in a transition career into the tech industry.
+Since last year, I am doing Higher Diploma in Science in computing at National College of Ireland (NCI). I am excited to work in a tech industry.
+
 <div align="left">
   <a href="https://github.com/luinunes13">
     <img height="200em" width= "400em" src="https://github-readme-stats.vercel.app/api?username=luinunes13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
