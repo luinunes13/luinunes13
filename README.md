@@ -1,8 +1,7 @@
 ### Heey 👋
 
 I am **Luisa Nunes**,
-
- </div>
+<br><br>
 
 🧵 Apparel Sport and Casual Fashion Designer (UTFPR)
 <br>
@@ -11,6 +10,7 @@ I am **Luisa Nunes**,
 ##
 
 **Currently,**
+<br>
 👩🏽‍💻 Transition into the tech industry.
 <br>
 📚 I am doing Higher Diploma in Science in computing at National College of Ireland (NCI)
@@ -23,7 +23,6 @@ I am **Luisa Nunes**,
  ##
  
 **To know more, track me on:**
-<br><br>
 
 <div>
    <a href="https://www.linkedin.com/in/luinunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
