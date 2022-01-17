@@ -4,17 +4,20 @@ I am **Luisa Nunes**,
 
  </div>
 
-- 🧵 Apparel Sport and Casual Fashion Designer (UTFPR)
-- 🎓 Postgraduate in Fashion Business (SENAI SP)
+🧵 Apparel Sport and Casual Fashion Designer (UTFPR)
+<br>
+🎓 Postgraduate in Fashion Business (SENAI SP)
 
 ##
 
 **Currently,**
-- 👩🏽‍💻 Transition into the tech industry.
-- 📚 I am doing Higher Diploma in Science in computing at National College of Ireland (NCI)
-
-- 🎯🇧🇷 Apparel designer from Brazilian fashion brand.
-- 🎯🇮🇪 Healthcare Assistant and IT student 
+👩🏽‍💻 Transition into the tech industry.
+<br>
+📚 I am doing Higher Diploma in Science in computing at National College of Ireland (NCI)
+<br>
+🎯🇧🇷 Apparel designer from Brazilian fashion brand.
+<br>
+🎯🇮🇪 Healthcare Assistant and IT student 
 <br><br>  
 
  ##
