@@ -10,7 +10,7 @@ I am **Luisa Nunes**,
 ##
 
 **Currently,**
-<br>
+<br><br>
 👩🏽‍💻 Transition into the tech industry.
 <br>
 📚 I am doing Higher Diploma in Science in computing at National College of Ireland (NCI)
