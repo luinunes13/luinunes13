@@ -2,8 +2,28 @@
 
 I am **Luisa Nunes**,
 
+ </div>
+
+- 🧵 Apparel Sport and Casual Fashion Designer (UTFPR)
+- 🎓 Postgraduate in Fashion Business (SENAI SP)
+
+**Currently,**
+- 👩🏽‍💻 Transition into the tech industry.
+- 📚 I am doing Higher Diploma in Science in computing at National College of Ireland (NCI)
+
+- 🎯🇧🇷 Apparel design from Brazilian fashion brand.
+- 🎯🇮🇪 Healthcare Assistant and IT student 
+  
+To know more, track me on **[Linkedin](http://linkedin.com/in/luinunes)**.
+<br><br>
+
+<div> 
+  
 Currently, I live in Dublin (Ireland) and work as Health Care Assistant and Fashion Design. I am in a transition career into the tech industry.
 Since last year, I am doing Higher Diploma in Science in computing at National College of Ireland (NCI). I am excited to work in a tech industry.
+
+To know more, track me on **[Linkedin](http://linkedin.com/in/luinunes)**.
+<br><br>
 
 <div align="left">
   <a href="https://github.com/luinunes13">
@@ -17,19 +37,7 @@ Since last year, I am doing Higher Diploma in Science in computing at National C
     <a href = "mailto:luinunes@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://discordapp.com/users/2318" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     
-  </div>
 
-- 🧵👩🏽‍🎨 Apparel Sport and Casual Designer (UTFPR)
-- 🎓 Postgraduate in Fashion Business (SENAI SP)
-- 📚 I’m doing Higher Diploma in Science in Computing (National College of Ireland)
-- 👩🏽‍💻 Transition into the tech industry.
-
-- 🎯🇧🇷 Apparel design from Brazilian fashion brand.
-- 🎯🇮🇪 Healthcare Assistant and IT student 
-  
--  Wanna a chat? Don’t be shy! Drop me a DM or IG! 
-
-<div> 
   <a href=
 
 <!--
