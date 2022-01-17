@@ -1,6 +1,6 @@
 ### Heey 👋
 
-I am **Luisa Nunes**,
+<h1> I am **Luisa Nunes**,</h1>
 <br><br>
 
 🧵 Apparel Sport and Casual Fashion Designer (UTFPR)
@@ -9,7 +9,7 @@ I am **Luisa Nunes**,
 
 ##
 
-**Currently,**
+<h2>**Currently,**,/h2>
 <br><br>
 👩🏽‍💻 Transition into the tech industry.
 <br>
@@ -22,7 +22,7 @@ I am **Luisa Nunes**,
 
  ##
  
-**To know more, track me on:**
+ <h2>**To know more, track me on:**</h2>
 
 <div>
    <a href="https://www.linkedin.com/in/luinunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,6 +32,8 @@ I am **Luisa Nunes**,
 <div> 
 
  ##
+ 
+ <h2>🌱  I'm currently learning...</h2>
  
 <div align="left">
   <a href="https://github.com/luinunes13">
