@@ -59,7 +59,7 @@ I am **Luisa Nunes**,
  
 <div align="left">
   <a href="https://github.com/luinunes13">
-  <img height="200em" width= "800em" src="https://github-readme-stats.vercel.app/api?username=luinunes13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width= "1000em" src="https://github-readme-stats.vercel.app/api?username=luinunes13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
   
  ##
