@@ -2,22 +2,25 @@
 
 I am **Luisa Nunes**,
 <br><br>
+I am a highly analytical professional, currently majoring in Science in Computing and excited to pivot my career from the Tech Industry as I am addicted to searching and studying new tech and program innovations.
 
-🧵 Apparel Sport and Casual Fashion Designer (UTFPR).
-<br>
-🎓 Postgraduate in Fashion Business (SENAI SP).
+During my career as a Fashion Product Designer, I have developed advanced attention to detail and visual design skills and gained a wide range of transferable skills that are directly related to the IT Sector, including my desire to put the consumers/users first and to consider the consumer data and behavioural insight analyses to make design decisions. 
+
+To further enhance my professional skills and quest for learning, I enrolled on a Diploma in UX Design and a Higher Diploma in Science in Computing. Throughout these programs, I have practised different technology domains in demanding projects, which allowed me to further expand my horizon in Object Oriented Software Engineering, Software Development, Computer Architecture Operating Systems and Networks, Data Structures, Algorithms and Advanced Programming and UX Design and User Experience.
 
 ##
 
 **Currently,**
 <br><br>
-👩🏽‍💻 Transition into the tech industry.
-<br>
-📚 I am doing Higher Diploma in Science in computing at National College of Ireland (NCI).
-<br>
-🎯🇮🇪 Healthcare Assistant and Computer Science Student.
-<br><br>  
 
+👩🏽‍💻 Transition into the tech industry (UX Design/Software Development).
+<br>
+📚
+2022 | Diploma in UX Design | Mergo User Experience
+2022 | Higher Diploma in Science in Computing | NCI – National College of Ireland
+2016 | Postgraduate in Fashion Business Management | Senai College
+2014 | Bachelor's degree in Fashion Design | UTFPR University
+<br>
  ##
  
  **To know more, track me on:**
