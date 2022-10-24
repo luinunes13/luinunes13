@@ -17,8 +17,11 @@ To further enhance my professional skills and quest for learning, I enrolled on 
 <br>
 📚
 2022 | Diploma in UX Design | Mergo User Experience
+<br>
 2022 | Higher Diploma in Science in Computing | NCI – National College of Ireland
+<br>
 2016 | Postgraduate in Fashion Business Management | Senai College
+<br>
 2014 | Bachelor's degree in Fashion Design | UTFPR University
 <br>
  ##
