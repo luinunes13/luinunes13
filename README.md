@@ -2,12 +2,11 @@
 
 I am **Luisa Nunes**,
 <br><br>
-I am a highly analytical professional, I recently graduated with first class honour in Higher Diploma in Computer Science, and I am excited about the opportunity to apply my skills and knowledge in a real-world setting..
+I am a highly analytical professional, currently majoring in Science in Computing and excited to pivot my career from the Tech Industry as I am addicted to searching and studying new tech and program innovations.
 
 During my career as a Fashion Product Designer, I have developed advanced attention to detail and visual design skills and gained a wide range of transferable skills that are directly related to the IT Sector, including my desire to put the consumers/users first and to consider the consumer data and behavioural insight analyses to make design decisions. 
 
-To further enhance my professional skills and quest for learning, I enrolled on a Diploma in UX Design and a Higher Diploma in Science in Computing. Throughout these programs, I have practised different technology domains in demanding projects, which allowed me to further expand my horizon in Object Oriented Software Engineering, Software Development, Database, Computer Architecture Operating Systems and Networks, Data Structures, Algorithms and Advanced Programming and User Experience.
-
+To further enhance my professional skills and quest for learning, I enrolled on a Diploma in UX Design and a Higher Diploma in Science in Computing. Throughout these programs, I have practised different technology domains in demanding projects, which allowed me to further expand my horizon in Object Oriented Software Engineering, Software Development, Computer Architecture Operating Systems and Networks, Data Structures, Algorithms and Advanced Programming and UX Design and User Experience.
 ##
 
 **Currently,**
