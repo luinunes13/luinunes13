@@ -2,11 +2,13 @@
 
 I am **Luisa Nunes**,
 <br><br>
-I am a highly analytical professional, currently majoring in Science in Computing and excited to pivot my career from the Tech Industry as I am addicted to searching and studying new tech and program innovations.
+I am a highly analytical professional currently pursuing a Higher Diploma in Science in Computing, eager to transition my career into the tech industry. I have a passion for exploring and studying new technologies and programming innovations.
 
-During my career as a Fashion Product Designer, I have developed advanced attention to detail and visual design skills and gained a wide range of transferable skills that are directly related to the IT Sector, including my desire to put the consumers/users first and to consider the consumer data and behavioural insight analyses to make design decisions. 
+During my career as a Fashion Product Designer, I developed advanced attention to detail and visual design skills. I also acquired a wide range of transferable skills directly applicable to the IT sector, including a strong focus on putting consumers and users first. I am adept at analyzing consumer data and behavioral insights to inform design decisions.
 
-To further enhance my professional skills and quest for learning, I enrolled on a Diploma in UX Design and a Higher Diploma in Science in Computing. Throughout these programs, I have practised different technology domains in demanding projects, which allowed me to further expand my horizon in Object Oriented Software Engineering, Software Development, Computer Architecture Operating Systems and Networks, Data Structures, Algorithms and Advanced Programming and UX Design and User Experience.
+To enhance my professional skills and satisfy my quest for continuous learning, I have pursued a Diploma in UX Design and a Higher Diploma in Science in Computing. Through these programs, I have gained hands-on experience across various technology domains in demanding projects. These experiences have expanded my knowledge in areas such as Object-Oriented Software Engineering, Software Development, Computer Architecture, Operating Systems and Networks, Data Structures, Algorithms, Advanced Programming, UX Design, and User Experience.
+
+Feel free to reach out to me—I would be happy to connect!
 ##
 
 **Currently,**
