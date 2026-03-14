@@ -4,11 +4,11 @@ I am **Luisa Nunes**,
 <br><br>
 I am a highly analytical professional currently pursuing a Higher Diploma in Science in Computing, eager to transition my career into the tech industry. I have a passion for exploring and studying new technologies and programming innovations.
 
-During my career as a Fashion Product Designer, I developed advanced attention to detail and visual design skills. I also acquired a wide range of transferable skills directly applicable to the IT sector, including a strong focus on putting consumers and users first. I am adept at analyzing consumer data and behavioral insights to inform design decisions.
+During my career as a Fashion Product Designer, I developed advanced attention to detail and visual design skills. I also acquired a wide range of transferable skills directly applicable to the IT sector, including a strong focus on putting users first. I am adept at analyzing consumer data and behavioral insights to inform design decisions.
 
-To enhance my professional skills and satisfy my quest for continuous learning, I have pursued a Diploma in UX Design and a Higher Diploma in Science in Computing. Through these programs, I have gained hands-on experience across various technology domains in demanding projects. These experiences have expanded my knowledge in areas such as Object-Oriented Software Engineering, Software Development, Computer Architecture, Operating Systems and Networks, Data Structures, Algorithms, Advanced Programming, UX Design, and User Experience.
+To enhance my professional skills and satisfy my quest for continuous learning, I have pursued a Diploma in UX Design and a Higher Diploma in Science in Computing. Through these programs, I have gained hands-on experience across various technology domains in demanding projects. These experiences have expanded my knowledge in areas such as Object-Oriented Software Engineering, Software Development, Computer Architecture, Operating Systems and Networks, Data Structures, Algorithms, Advanced Programming, User Research, and User Experience.
 
-Feel free to reach out to me—I would be happy to connect!
+Feel free to reach out to me, and I would be happy to connect!
 ##
 
 **Currently,**
@@ -18,11 +18,11 @@ Feel free to reach out to me—I would be happy to connect!
 <br>
 📚 
 <br>
-2022 | Diploma in UX Design | Mergo User Experience
+2022 | Diploma in UX Design |UX Design Institute
 <br>
 2022 | Higher Diploma in Science in Computing | NCI – National College of Ireland
 <br>
-2016 | Postgraduate in Fashion Business Management | Senai College
+2016 | Postgraduate in Retail Business Management | Senai College
 <br>
 2014 | Bachelor's degree in Fashion Design | UTFPR University
 <br>
